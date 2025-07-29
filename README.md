@@ -10,13 +10,13 @@ Uma Empresa virtual de tecnologia crescendo a **Glimpse** é a melhor alternativ
 # Instalação:
 
 ```
-npm i @glimpse/cloudDB
+npm i @glimpsrc/cloudDB
 ```
 # Modo de Uso:
 
 Aqui contém todas as funções da CloudDB, **seu modo de uso, e exemplos práticos**
 ```
-import { CloudDB } from '@glimpse/cloudDB';
+import { CloudDB } from '@glimpsrc/cloudDB';
 
 // Criando a instância do banco
 const db = new CloudDB('meubanco.json', {
