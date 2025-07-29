@@ -1,1 +1,1 @@
-import { CloudDB } from "./main/database.js";
+export { CloudDB } from "./main/database.js";
